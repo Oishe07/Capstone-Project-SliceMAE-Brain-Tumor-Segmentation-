@@ -42,7 +42,7 @@ The model shows improved performance across challenging tumor regions and better
 ## Project Structure
 
 notebooks/ – Supervised and self-supervised model implementations
-live_demo/ – Web deployment and live demo access
+live_demo/ – Web deployment and live demo access- https://huggingface.co/spaces/ratulpodder/neuroscan 
 
 ## How to Run
 
